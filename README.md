@@ -10,6 +10,9 @@ Run command 'node index.js' to get started playing game
 
 Technology used
 Node.js
+
 javascript
+
 Inquirer NPM Package - https://www.npmjs.com/package/inquirer
+
 Promp NPMt Package - https://www.npmjs.com/package/prompt
