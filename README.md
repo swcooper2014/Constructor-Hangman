@@ -6,11 +6,11 @@ Description
 
 Getting Started
 
-  Clone repo.
+      Clone repo.
 
-  Run command in Terminal or Gitbash 'npm install'
+      Run command in Terminal or Gitbash 'npm install'
 
-  Run command 'node index.js' to get started playing game
+      Run command 'node index.js' to get started playing game
 
 Technology used
 
