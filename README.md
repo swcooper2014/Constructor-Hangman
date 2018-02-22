@@ -2,7 +2,7 @@
 
 Description
 
-  Created a hangman game ran through Node.js and empowered using JavaScript constructors.
+  Created a hangman game that runs through Node.js and empowered using JavaScript constructors.
 
 Getting Started
 
