@@ -12,6 +12,8 @@ Getting Started
 
       Run command 'node index.js' to get started playing game
 
+Access Video of working app here: https://drive.google.com/file/d/19weEldVN24XZiLAHmDSIc6pB91ezrewo/view?usp=sharing
+
 Technology used
 
   Node.js
